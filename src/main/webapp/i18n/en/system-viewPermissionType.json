@@ -1,0 +1,9 @@
+{
+  "blogApp": {
+    "ViewPermissionType": {
+      "null": "",
+      "MENU": "MENU",
+      "BUTTON": "BUTTON"
+    }
+  }
+}

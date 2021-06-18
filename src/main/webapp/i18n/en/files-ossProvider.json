@@ -1,0 +1,12 @@
+{
+  "blogApp": {
+    "OssProvider": {
+      "null": "",
+      "MINIO": "MINIO",
+      "QINIU": "QINIU",
+      "ALI": "ALI",
+      "TENCENT": "TENCENT",
+      "LOCAL": "LOCAL"
+    }
+  }
+}

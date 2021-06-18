@@ -1,0 +1,35 @@
+id;name;entity_name;table_name;clazz_name;jhi_system;jhi_generated;creat_at;generate_at;generate_class_at;description;creator_id;business_type_id;tree_table;edit_in_modal
+1;用户表;User;jhi_user;User;true;true;2019-10-30 05:49:43.000000000;2019-10-29 16:15:50.000000000;2019-10-29 17:38:10.000000000;用户表;1;1;false;false
+2;历史任务实例;HistoryTaskInstance;t_his_task_ins;HistoryTaskInstance;true;true;2019-10-30 05:49:43.000000000;2019-10-30 05:49:43.000000000;2019-10-30 05:49:43.000000000;历史任务实例;1;8;false;false
+3;角色;Authority;jhi_authority;Authority;true;true;2020-09-26T01:37:18;2020-09-26T01:37:18;2020-09-26T01:37:18;角色;1;1;true;false
+4;通用字符串;CommonString;common_string;CommonString;true;true;2021-06-17T18:38:47;2021-06-17T18:38:47;2021-06-17T18:38:47;通用字符串\n;1;11;false;false
+5;模型字段;CommonTableField;common_table_field;CommonTableField;true;true;2021-06-17T22:43:13;2021-06-17T22:43:13;2021-06-17T22:43:13;模型字段;1;9;false;false
+6;通用单精度;CommonFloat;common_float;CommonFloat;true;true;2021-06-18T12:30:13;2021-06-18T12:30:13;2021-06-18T12:30:13;通用单精度\n;1;11;false;false
+7;对象存储配置;OssConfig;oss_config;OssConfig;true;true;2021-06-18T07:51:31;2021-06-18T07:51:31;2021-06-18T07:51:31;对象存储配置;1;2;false;false
+8;通用双精度;CommonDouble;common_double;CommonDouble;true;true;2021-06-18T13:01:16;2021-06-18T13:01:16;2021-06-18T13:01:16;通用双精度\n;1;11;false;false
+9;API权限;ApiPermission;api_permission;ApiPermission;true;true;2021-06-17T23:44:00;2021-06-17T23:44:00;2021-06-17T23:44:00;API权限\n菜单或按钮下有相关的api权限;1;1;true;false
+10;通用扩展数据;CommonExtData;common_ext_data;CommonExtData;true;true;2021-06-18T07:06:48;2021-06-18T07:06:48;2021-06-18T07:06:48;通用扩展数据;1;11;false;false
+11;上传图片;UploadImage;upload_image;UploadImage;true;true;2021-06-18T08:09:14;2021-06-18T08:09:14;2021-06-18T08:09:14;上传图片;1;2;false;false
+12;短信配置;SmsConfig;sms_config;SmsConfig;true;true;2021-06-18T11:37:14;2021-06-18T11:37:14;2021-06-18T11:37:14;短信配置;1;2;false;false
+13;报表存储;UReportFile;u_report_file;UReportFile;true;true;2021-06-18T05:05:14;2021-06-18T05:05:14;2021-06-18T05:05:14;报表存储;1;10;false;false
+14;部门;Department;department;Department;true;true;2021-06-18T09:46:26;2021-06-18T09:46:26;2021-06-18T09:46:26;部门;1;4;true;false
+15;统计Api;StatisticsApi;statistics_api;StatisticsApi;true;true;2021-06-18T06:06:18;2021-06-18T06:06:18;2021-06-18T06:06:18;统计Api;1;10;false;false
+16;业务类型;BusinessType;business_type;BusinessType;true;true;2021-06-18T08:25:02;2021-06-18T08:25:02;2021-06-18T08:25:02;业务类型;1;4;false;false
+17;通用日期时间;CommonZonedDateTime;common_zoned_date_time;CommonZonedDateTime;true;true;2021-06-18T04:58:41;2021-06-18T04:58:41;2021-06-18T04:58:41;通用日期时间\n;1;11;false;false
+18;模型关系;CommonTableRelationship;common_table_relationship;CommonTableRelationship;true;true;2021-06-17T22:03:44;2021-06-17T22:03:44;2021-06-17T22:03:44;模型关系;1;9;false;false
+19;通用布尔;CommonBoolean;common_boolean;CommonBoolean;true;true;2021-06-17T22:47:49;2021-06-17T22:47:49;2021-06-17T22:47:49;通用布尔\n;1;11;false;false
+20;通用大数;CommonBigDecimal;common_big_decimal;CommonBigDecimal;true;true;2021-06-18T00:55:17;2021-06-18T00:55:17;2021-06-18T00:55:17;通用大数\n;1;11;false;false
+21;通用长整;CommonLong;common_long;CommonLong;true;true;2021-06-17T23:07:05;2021-06-17T23:07:05;2021-06-17T23:07:05;通用长整\n;1;11;false;false
+22;通用日期;CommonLocalDate;common_local_date;CommonLocalDate;true;true;2021-06-18T14:39:49;2021-06-18T14:39:49;2021-06-18T14:39:49;通用日期\n;1;11;false;false
+23;可视权限;ViewPermission;view_permission;ViewPermission;true;true;2021-06-17T22:22:38;2021-06-17T22:22:38;2021-06-17T22:22:38;可视权限\n权限分为菜单权限、按钮权限等\n;1;1;true;false
+24;通用条件条目;CommonConditionItem;common_condition_item;CommonConditionItem;true;true;2021-06-17T17:42:45;2021-06-17T17:42:45;2021-06-17T17:42:45;通用条件条目;1;10;false;false
+25;行政区划;AdministrativeDivision;administrative_division;AdministrativeDivision;true;true;2021-06-18T01:31:44;2021-06-18T01:31:44;2021-06-18T01:31:44;行政区划;1;4;true;false
+26;关系模型;CommonTable;common_table;CommonTable;true;true;2021-06-17T18:11:30;2021-06-17T18:11:30;2021-06-17T18:11:30;关系模型;1;9;false;false
+27;通用长文本;CommonTextBlob;common_text_blob;CommonTextBlob;true;true;2021-06-18T14:18:53;2021-06-18T14:18:53;2021-06-18T14:18:53;通用长文本\n;1;11;false;false
+28;通用整数;CommonInteger;common_integer;CommonInteger;true;true;2021-06-18T12:06:35;2021-06-18T12:06:35;2021-06-18T12:06:35;通用整数\n;1;11;false;false
+29;资源分类;ResourceCategory;resource_category;ResourceCategory;true;true;2021-06-18T00:07:14;2021-06-18T00:07:14;2021-06-18T00:07:14;资源分类;1;2;true;false
+30;上传文件;UploadFile;upload_file;UploadFile;true;true;2021-06-17T17:12:03;2021-06-17T17:12:03;2021-06-17T17:12:03;上传文件;1;2;false;false
+31;岗位;Position;position;Position;true;true;2021-06-17T16:52:15;2021-06-17T16:52:15;2021-06-17T16:52:15;岗位\n@author jhipster.pro;1;4;false;false
+32;数据字典;DataDictionary;data_dictionary;DataDictionary;true;true;2021-06-18T05:25:18;2021-06-18T05:25:18;2021-06-18T05:25:18;数据字典;1;4;true;false
+33;通用条件;CommonCondition;common_condition;CommonCondition;true;true;2021-06-18T13:25:31;2021-06-18T13:25:31;2021-06-18T13:25:31;通用条件;1;10;false;false
+34;GPS信息;GpsInfo;gps_info;GpsInfo;true;true;2021-06-17T21:44:10;2021-06-17T21:44:10;2021-06-17T21:44:10;GPS信息;1;4;false;false
